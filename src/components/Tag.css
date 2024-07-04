@@ -1,0 +1,42 @@
+.rand-div-1{
+    width: 550px;
+    /* background-color: rgb(67, 188, 67); */
+    background-color: rgb(29, 143, 195);
+    border-radius: 5px;
+    border: 1px solid black;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    column-gap: 5px;
+}
+
+.rand-h1{
+    font-size: large;
+    text-decoration: underline;
+    margin-top: 15px;
+    
+}
+.tag-input{
+    width: 90%;
+    background-color: white;
+    opacity: 90%;
+    font-size: large;
+    padding: 2px;
+    border: 2px solid rgb(29, 143, 195);
+    border-radius: 5px;
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.rand-btn{
+    width: 90%;
+    background-color: aliceblue;
+    opacity: 50%;
+    font-size: large;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}

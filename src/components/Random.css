@@ -1,0 +1,29 @@
+.random-div-1{
+    width: 550px;
+    background-color: rgb(67, 188, 67);
+    border-radius: 5px;
+    border: 1px solid black;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    column-gap: 5px;
+}
+
+.random-h1{
+    font-size: large;
+    text-decoration: underline;
+    margin-top: 15px;
+    
+}
+.random-btn{
+    width: 90%;
+    background-color: aliceblue;
+    opacity: 50%;
+    font-size: large;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
